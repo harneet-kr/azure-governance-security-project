@@ -1,0 +1,5 @@
+AzureDiagnostics
+| where ResourceProvider == "MICROSOFT.KEYVAULT"
+| where TimeGenerated > ago(24h)
+| project TimeGenerated, OperationName, CallerIPAddress, ResultSignature
+| order by TimeGenerated desc
