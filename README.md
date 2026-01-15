@@ -201,7 +201,7 @@ In a production environment, I would enhance this with:
 - [ ] Multi-region deployment with geo-redundancy
 
 Harneet kaur
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/harneet-kaur-55a692146/) | [GitHub](your-github-url) |
+[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/harneet-kaur-55a692146/) | [GitHub](https://github.com/harneet-kr) |
 
 ---
 
